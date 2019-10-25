@@ -5,3 +5,8 @@ end
 
 
 super_mario_party
+
+
+def classical_gas
+  
+end
