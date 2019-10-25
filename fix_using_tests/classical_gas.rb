@@ -1,7 +1,7 @@
 require 'pry'
 class GasStation
 
-  attr_reader :brand, 
+  attr_reader :brand
    attr_accessor :unleaded_price
 
   
