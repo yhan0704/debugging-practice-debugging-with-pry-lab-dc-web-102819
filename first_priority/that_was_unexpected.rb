@@ -27,5 +27,4 @@ class Person
         "not a ballin candy lover"
     end
   end
-      binding.pry
 end
