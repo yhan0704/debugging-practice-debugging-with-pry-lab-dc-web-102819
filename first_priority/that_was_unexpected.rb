@@ -1,3 +1,4 @@
+require 'pry'
 class Person
   attr_accessor :name, :candy_lover
 
@@ -27,3 +28,5 @@ class Person
     end
   end
 end
+end
+
